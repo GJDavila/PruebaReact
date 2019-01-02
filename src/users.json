@@ -1,0 +1,70 @@
+{
+
+     "user1":{
+         "name":"Walther Ayala",
+         "mail":"waltherayala@gmail.com",
+         "date":"12/12/2000",
+         "password":"123456789",
+         "link_image":"https://vignette.wikia.nocookie.net/naruto-shinobi-collection-jp/images/c/ce/Icon-0010.png/revision/latest?cb=20170108191643",
+         "mails":[
+             {
+               "mail":"gjdavila@gmail.com",
+               "validate":true,
+               "main_mail":false
+             },
+             {
+               "mail":"gjdavila@unsa.edu.pe",
+               "validate":true ,
+               "main_mail":false
+             },
+             {
+               "mail":"gjdavilaguillen@gmail.com",
+               "validate":true,
+               "main_mail":false
+             },
+             {
+               "mail":"guillen@gmail.com",
+               "validate":true,
+               "main_mail":true
+             }
+         ],
+
+         "cellphones":[
+             {
+               "number":999999999,
+               "validate":true,
+               "main_phone":true,
+               "region":"PE+ 51"
+
+             },{
+               "number":1212323,
+               "validate":true,
+               "main_phone":false,
+               "region":"PE+ 51"
+
+             },{
+               "number":3423424242,
+               "validate":true,
+               "main_phone":false,
+               "region":"PE+ 51"
+             }
+         ],
+
+         "rrss":[
+             {
+               "red_social":"Facebook",
+               "name":"Walther",
+               "icon":"https://vignette.wikia.nocookie.net/eldarya-en-espanol/images/d/dd/Facebook-icon.png/revision/latest?cb=20160605032114&path-prefix=es"
+             },{
+               "red_social":"Linkedin",
+               "name":"@walter",
+               "icon":"https://png.icons8.com/color/100/linkedin.png"
+             },{
+               "red_social":"Google",
+               "name":"whalter@gmail.com",
+               "icon":"https://pulse-mdurgentcare.com/wp-content/uploads/2015/05/pulse-md-google-icon.png"
+             }
+         ]
+
+      }
+}
