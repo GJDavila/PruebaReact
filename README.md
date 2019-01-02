@@ -1,7 +1,7 @@
-Contraseña para las pruebas: 123456789<br>
+##Contraseña de usuario para las pruebas: 123456789<br>
 
 
-archivo users.json contiene los datos que uso para la interaccion con la interfaz<br>
+##archivo users.json contiene los datos que uso para la interaccion con la interfaz<br>
 
 
 
